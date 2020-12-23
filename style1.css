@@ -1,0 +1,38 @@
+
+
+.user{
+  position: absolute;
+  background-color: darkblue;
+  border-radius: 0px;
+  right: 1%;
+  top: 2%;
+   
+}
+.admin{
+  position: absolute;
+  background-color: darkblue;
+  border-radius: 0px;
+  text-align: ;
+  top: 2%;
+  right:10%;
+}    
+
+button {
+  margin: 0px 0px;
+  padding: 4px;
+  width: 100%;
+  border-radius: 0px;
+  color: white;
+   background-color: #4CAF50;
+  border: none;
+  font-size: 20px;
+  outline: none;
+}
+h1{
+  text-align: center;
+  padding-top: 6%;
+  font-size: 50px;
+}
+h5{
+  font-size: 20px;
+  font-style: italic;
